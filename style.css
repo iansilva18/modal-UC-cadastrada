@@ -29,14 +29,14 @@ form .button {
 }
 
 form .button input {
-    height: 50px;
-    width: 100px;
+    height: 50rem;
+    width: 100rem;
     outline: none;
     color: #fff;
     border: none;
-    font-size: 20px;
+    font-size: 20rem;
     font-weight: 500;
-    border-radius: 20px;
+    border-radius: 20rem;
     background: #005594;
     transition: all 0.3s ease;
 }
@@ -46,7 +46,7 @@ form .button input:hover {
 }
 
 
-
+    
 .modal-content form .user__details {
     display: flex;
     flex-wrap: wrap;
@@ -59,10 +59,10 @@ form .button input:hover {
     padding: 7px 13px;
     background: #e26d3f;
     color: #fff;
-    font-size: 15px;
+    font-size: 2rem;
     outline: none;
     border: none;
-    border-radius: 5px;
+    border-radius: 1rem;
     font-family: 'Nunito', sans-serif;
 }
 
@@ -97,7 +97,7 @@ form .button input:hover {
     font-family: 'Nunito';
     font-style: normal;
     font-weight: 500;
-    font-size: 30px;
+    font-size: 2rem;
     color: #000000;
     margin: 5rem;
     position: absolute;
@@ -121,7 +121,7 @@ form .button input:hover {
     outline: none;
     color: #fff;
     border: none;
-    font-size: 28px;
+    font-size: 2rem;
     font-weight: 500;
     border-radius: 20px;
     background: #FF9022;
@@ -145,12 +145,13 @@ margin-left: 20rem;
     font-family: 'Nunito';
     font-style: normal;
     font-weight: 500;
-    font-size: 24px;
+    font-size: 2rem;
     color: #000000;
     margin: 11rem;
     position: absolute;
-    margin-top: 12rem;
+    margin-top: 10rem;
     white-space: nowrap;
+    left: 1rem;
 }
 
 .button3 input {
@@ -159,7 +160,7 @@ margin-left: 20rem;
     outline: none;
     color: #fff;
     border: none;
-    font-size: 28px;
+    font-size: 2rem;
     font-weight: 500;
     border-radius: 20px;
     background: #005594;
@@ -173,7 +174,7 @@ margin-left: 20rem;
 } 
 
 .button3 {
-height: 60px;
+height: 4rem;
 margin-top: 12rem;
 margin-right: 20rem;
 }
